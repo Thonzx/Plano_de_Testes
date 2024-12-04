@@ -33,15 +33,15 @@ O objetivo do teste é validar as funcionalidades de edição de dados do usuár
 
 | **Identificador** | **Descrição do Caso de Teste**              | **Status**  | **Observações**                                              |
 |--------------------|---------------------------------------------|-------------|-------------------------------------------------------------|
-| CT-07.1            | Atualizar os dados pessoais do usuário      | Falhou      | A mensagem de sucesso não foi exibida, e o campo "nome" estava bloqueado pela navbar. |
-| CT-07.2            | Alterar a senha do usuário                  | Falhou      | A mensagem "Senha alterada com sucesso" não foi exibida.    |
-| CT-07.3            | Exibir erro ao inserir senhas incompatíveis | Passou      | Mensagem "As senhas não coincidem" foi exibida corretamente.|
+| CT-03.1            | Atualizar os dados pessoais do usuário      | Falhou      | A mensagem de sucesso não foi exibida, e o campo "nome" estava bloqueado pela navbar. |
+| CT-03.2            | Alterar a senha do usuário                  | Falhou      | A mensagem "Senha alterada com sucesso" não foi exibida.    |
+| CT-04.3            | Exibir erro ao inserir senhas incompatíveis | Passou      | Mensagem "As senhas não coincidem" foi exibida corretamente.|
 
 ---
 
 ### **5. Detalhamento dos Casos de Teste**
 
-#### **CT-07.1: Atualizar os dados pessoais do usuário**
+#### **CT-03.1: Atualizar os dados pessoais do usuário**
 - **Descrição:** Testar se o sistema permite atualizar informações pessoais do usuário com dados válidos.
 - **Entradas:** 
   - Nome: "Wellython Atualizado"
@@ -55,7 +55,7 @@ O objetivo do teste é validar as funcionalidades de edição de dados do usuár
 
 ---
 
-#### **CT-07.2: Alterar a senha do usuário**
+#### **CT-03.2: Alterar a senha do usuário**
 - **Descrição:** Testar se o sistema permite alterar a senha do usuário.
 - **Entradas:** 
   - Nova senha: "novaSenha123"
@@ -66,7 +66,7 @@ O objetivo do teste é validar as funcionalidades de edição de dados do usuár
 
 ---
 
-#### **CT-07.3: Exibir erro ao inserir senhas incompatíveis**
+#### **CT-03.3: Exibir erro ao inserir senhas incompatíveis**
 - **Descrição:** Testar se o sistema exibe erro ao inserir senhas incompatíveis.
 - **Entradas:** 
   - Nova senha: "novaSenha123"
@@ -89,7 +89,7 @@ O objetivo do teste é validar as funcionalidades de edição de dados do usuár
 ### **7. Conclusão**
 Com base nos testes realizados:
 - **Status Geral:** Reprovado  
-- Apenas o caso de teste **CT-07.3** passou com sucesso. Os outros casos falharam devido a bugs identificados.
+- Apenas o caso de teste **CT-03.3** passou com sucesso. Os outros casos falharam devido a bugs identificados.
 
 ---
 
