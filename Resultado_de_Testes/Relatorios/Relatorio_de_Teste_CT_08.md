@@ -69,6 +69,9 @@ O objetivo do teste foi verificar as funcionalidades de notificações e destaqu
 - **Resultados Obtidos:**  
   - **Status:** Falhou  
   - **Observação:** A seção "Destaques" não exibiu nenhum livro, indicando ausência de livros destacados no banco de dados ou falha na exibição.
+- **Evidências:**
+  - ![CT_08](https://drive.google.com/uc?export=view&id=18_WMnEi8KG3WiXXngXxO6Dh7_Jdp9OHV)
+
 
 ---
 
