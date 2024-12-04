@@ -70,8 +70,8 @@ O objetivo do teste é validar a funcionalidade de adição de livros no sistema
   - Ano: "Texto"
   - Preço: "-50"
 - **Resultados Esperados:** Sistema bloqueia submissão e destaca campos inválidos.
-- **Resultado Obtido:** [Ex.: Passou]
-- **Evidência:** [Adicione prints da tela ou logs do Cypress]
+- **Resultado Obtido:** Passou
+
 
 ---
 
