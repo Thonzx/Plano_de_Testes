@@ -54,7 +54,9 @@ O objetivo do teste foi validar o fluxo de negociação de livros, incluindo o r
   - O usuário é redirecionado para a URL `https://wa.me/` com o número de contato configurado.  
 - **Resultados Obtidos:**  
   - **Status:** Reprovado  
-  - **Observação:** O redirecionamento foi realizado, mas a URL capturada pelo Cypress estava vazia, resultando em falha no teste.  
+  - **Observação:** O redirecionamento foi realizado, mas a URL capturada pelo Cypress estava vazia, resultando em falha no teste.
+- **Resultados Obtidos:** 
+  ![CT_10](https://drive.google.com/uc?export=view&id=1FQblN747CC1ygzVyKkf54HAp_mNJBcfw)
 
 ---
 
