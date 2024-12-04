@@ -75,5 +75,3 @@ O repositório está organizado em três principais diretórios:
 - Certifique-se de atualizar o `Plano_de_Testes.md` com qualquer alteração significativa no escopo dos testes.
 
 ---
-
-Com esta organização, é possível navegar facilmente pelos testes planejados, executados e seus respectivos relatórios. Para dúvidas ou contribuições, entre em contato com o responsável pelo repositório.
