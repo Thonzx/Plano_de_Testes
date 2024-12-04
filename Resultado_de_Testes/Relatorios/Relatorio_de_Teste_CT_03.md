@@ -62,7 +62,9 @@ O objetivo do teste é validar as funcionalidades de edição de dados do usuár
   - Confirmação de senha: "novaSenha123"
 - **Resultados Esperados:** Mensagem "Senha alterada com sucesso" exibida após a ação.
 - **Resultado Obtido:** Falhou
-- **Evidência:** Mensagem esperada não foi exibida.
+- **Evidência:**
+![CT_3](https://drive.google.com/uc?export=view&id=1cKyTCUfPN-CYxiv3mVJ0Yg4RRILMMHfB)
+
 
 ---
 
