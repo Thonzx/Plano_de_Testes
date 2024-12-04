@@ -58,6 +58,7 @@ O objetivo do teste foi validar o fluxo de negociação de livros, incluindo o r
 - **Evidência:** 
   ![CT_10](https://drive.google.com/uc?export=view&id=1FQblN747CC1ygzVyKkf54HAp_mNJBcfw)
 
+
 ---
 
 ### **6. Bugs Identificados**
