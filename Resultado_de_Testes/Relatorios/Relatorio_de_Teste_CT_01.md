@@ -63,9 +63,7 @@ O objetivo do teste é validar a funcionalidade de login no sistema, garantindo 
   - Senha: `senhaErrada`  
 - **Resultados Esperados:** 
   - Mensagem "Senha incorreta." visível no formulário de login.  
-- **Resultado Obtido:** Passou  
-- **Evidência:**  
-  [Adicione prints da tela ou logs do Cypress]
+- **Resultado Obtido:** Passou
 
 ---
 
@@ -77,8 +75,6 @@ O objetivo do teste é validar a funcionalidade de login no sistema, garantindo 
 - **Resultados Esperados:** 
   - Mensagem "Usuário não encontrado." visível no formulário de login.  
 - **Resultado Obtido:** Passou  
-- **Evidência:**  
-  [Adicione prints da tela ou logs do Cypress]
 
 ---
 
