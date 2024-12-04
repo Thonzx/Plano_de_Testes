@@ -58,6 +58,9 @@ O objetivo do teste foi verificar a funcionalidade de edição de livros no sist
 - **Resultados Obtidos:**  
   - **Status:** Falhou  
   - **Observação:** O sistema retornou um erro 404 ao acessar a página de edição.
+    - **Evidências:**
+    ![Descrição da Imagem](https://drive.google.com/uc?export=view&id=1gZ321jGvGezc-mJ0YdUq3RO-_zFH2b3N)
+
 
 ---
 
