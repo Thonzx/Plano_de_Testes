@@ -1,8 +1,9 @@
 ### **Relatório de Teste**
 
-**Nome do Projeto:** Sistema BookStore - Login  
-**Equipe de Testes:** Wellython Salmo, Carlos Breno, Bruna Miranda e Julia Farias  
-**Ferramentas Utilizadas:** Cypress
+**Nome do Projeto:** Bookstore - Sistema de Troca e Venda de Livros   
+**Equipe de Testes:** Wellython Salmo, Carlos Breno, Bruna Miranda e Julia Farias.  
+**Ferramentas Utilizadas:** Cypress (Automação de Testes)  
+
 ---
 
 ### **Objetivo**
