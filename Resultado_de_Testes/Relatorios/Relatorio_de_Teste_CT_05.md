@@ -60,7 +60,6 @@ O objetivo do teste é validar a funcionalidade de adição de livros no sistema
 - **Entradas:** Nenhum campo preenchido.
 - **Resultados Esperados:** Submissão bloqueada e campos destacados como inválidos.
 - **Resultado Obtido:** [Ex.: Passou]
-- **Evidência:** [Adicione prints da tela ou logs do Cypress]
 
 ---
 
